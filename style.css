@@ -1,0 +1,54 @@
+.navbar{
+    background-color:#FCAF02;
+    margin:0; 
+}
+.parent.chid{
+    display: flex;
+    flex-direction: column;
+   
+}
+.right-image{
+    display: flex;
+  
+}
+
+
+.container{
+    margin:0;
+    background-color:#1E1E1E ;
+}
+
+.left{
+    
+    color:#FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 28px;
+    
+
+}
+.bold{
+    color:#FCAF02;
+    
+}
+
+table{
+    border:1px solid #FCAF02;
+    color:#FCAF02;
+    width:100%;
+    border-collapse:collapse ;
+    
+}
+td{
+    padding:20px;
+}
+.final{
+    background-color:#FCAF02 ;
+    color:
+    #000000;
+}
+label{
+    padding:20px;
+    text-align: center;
+    border-radius: 2px;
+    outline: none ;
+}
